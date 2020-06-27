@@ -27,7 +27,7 @@ where <file-with-names> is a file with a scholar on each row
 * A print out authors and their h-index
 * A pickle file `data.pkl` with the collected raw data
 * A pickle file `data_flat.pkl` with a DataFrame containing the flattened data and no duplicates
-* An html file `names.html` showing a table with the flattened DataFrame above
+* An html file `data_flat.html` showing a table with the flattened DataFrame above
 
 ### Notes:
 The script takes about 30s per author. That is due to [Scholarly](https://pypi.org/project/scholarly/)

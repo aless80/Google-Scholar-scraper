@@ -18,8 +18,10 @@ pip install -r requirements.txt
 ```
 
 ### Usage:
+	```
 	python3 parse_scholarly.py --help
 	python3 parse_scholarly.py <file-with-names>
+	```
 
 	where <file-with-names> is a file with a scholar on each row
 
